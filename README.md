@@ -273,7 +273,3 @@ Aspiring Data Analyst | Business Intelligence | Power BI | SQL | Python
 ---
 
 ## ⭐ If you found this project useful, consider giving this repository a star!
-
----
-
-## If you found this project useful, consider giving this repository a star!
